@@ -1,1 +1,1 @@
-# Application-of-SR
+# Approaching Outliers in Dataset with Support Vector Regression
