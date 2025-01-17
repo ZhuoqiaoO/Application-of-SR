@@ -12,9 +12,13 @@ During these experiments, we also observe that solving the linear optimization p
 
 Finally, we compare the out-of-sample performance of the SR model and the CVaR model, both fitted to datasets after outlier removal, against the SR model applied to datasets containing outliers. The results demonstrate that the SR and CVaR models trained on cleaned datasets outperform the SR model trained on uncleaned data, highlighting the effectiveness of outlier extraction in improving model accuracy.
 
-References:
+**References**:
 D. Bertsimas and I. Paskov. Stable regression: On the power of optimization over randomization. Journal of Machine Learning Research, 21(230):1–25, 2020. URL http://jmlr.org/papers/v21/19-408.html. ​
+
 Malandii, A. and S. Uryasev. Support Vector Regression: Risk Quadrangle Framework, Jan 2023, arXiv:2212.09178​
+
 R. T. Rockafellar and S. Uryasev. The Fundamental Risk Quadrangle in Risk Management, Optimization and Statistical Estimation. Surveys in Operations Research and Management Science, 18(1):33––53, 2013 ​
+
 PSG Help Manual https://aorda.com/ ​
+
 Case Study: Support Vector Regression: Risk Quadrangle Framework. https://uryasev.ams.stonybrook.edu/wp-content/uploads/2022/12/Case_Study__SVR.pdf ​
